@@ -1,0 +1,36 @@
+[
+  {
+     "asukohtId":"1105213",
+     "tegevuskohaId":189122,
+     "taotluseNr":"7-6/21/169",
+     "menetStaatus":null,
+     "kommentaar":null,
+     "tegevuseYldnimetus":"Maismaaloomade kogumine",
+     "tegevuseTunnusNr":"124-124124",
+     "lubaAlgusKp":"2021-08-30",
+     "lubaLoppKp":"2021-09-06",
+     "algneTegLubOtsusNr":"1.2-13/5626",
+     "tegevusalaId":34987491,
+     "tegAlgusKp":"2021-08-30",
+     "tegLoppKp":"2021-09-06",
+     "tegKeeldKp":null,
+     "kirjeMuudetud":"2021-08-30"
+  },
+  {
+    "asukohtId":"1105213",
+    "tegevuskohaId":189122,
+    "taotluseNr":"7-6/21/169",
+    "menetStaatus":null,
+    "kommentaar":null,
+    "tegevuseYldnimetus":"Maismaaloomade kogumine",
+    "tegevuseTunnusNr":"124-124124",
+    "lubaAlgusKp":"2021-08-30",
+    "lubaLoppKp":"2021-09-06",
+    "algneTegLubOtsusNr":"1.2-13/5626",
+    "tegevusalaId":34987492,
+    "tegAlgusKp":"2021-08-30",
+    "tegLoppKp":"2021-09-07",
+    "tegKeeldKp":null,
+    "kirjeMuudetud":"2021-08-30"
+ } 
+]
